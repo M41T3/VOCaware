@@ -58,11 +58,11 @@ Color code of the RGB LED is programmed according to Sensirions SGP40 VOC index 
 Device fits in enclosure of the P1S printer and can be power directly from the internal USB plug. Please print the housing with PETG filament or similar so that it withstands the increased temperatures in the chamber.
 
 ![VOCaware P1S](images/VOCaware_p1s.jpg)
-![VOCaware P1S outside](images/VOCaware_P1S_outside.jpg)
+![VOCaware P1S outside](images/VOCaware_p1s_outside.jpg)
 
 The VOCaware is also visible in the camera view of the Bambu Studio interface:
 
-![VOCaware P1S GUI](images/VOCaware_P1S_gui.PNG)
+![VOCaware P1S GUI](images/VOCaware_p1s_gui.PNG)
 
 # What's Next
 Ideas for improvements and features:
