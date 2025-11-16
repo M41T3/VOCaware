@@ -24,24 +24,24 @@ VOCs are released during 3D printing caused by the melting process of plastic fi
 - 40 x 30 mm
 - JLCPCB production files available
 
-![VOCaware PCB front](images/VOCaware_pcb_front.png)
-![VOCaware PCB front](images/VOCaware_pcb_back.png)
+![VOCaware PCB front](images/VOCaware_pcb_front.PNG)
+![VOCaware PCB front](images/VOCaware_pcb_back.PNG)
 
 # Housing
 
 The lid simply clips to the bottom part of the housing. On the backside are holes for magnets.
 
 Frontside:
-![VOCaware CAD1](images/VOCaware_cad_explode.png)
+![VOCaware CAD1](images/VOCaware_cad_explode.PNG)
 
 Backside: 
-![VOCaware CAD2](images/VOCaware_cad_explode_back.png)
+![VOCaware CAD2](images/VOCaware_cad_explode_back.PNG)
 
 # VOC Indication
 
 Color code of the RGB LED is programmed according to Sensirions SGP40 VOC index scale to show a trend of the intensity over time. The devices needs severeal seconds to set up. During this, the LED blinks green.  
 
-![VOC Index Scale](images/VOC_index_scale.png)
+![VOC Index Scale](images/VOC_index_scale.PNG)
 
 | LED Color| VOC Index | Exposure |
 |----------|----------|----------|
@@ -62,7 +62,7 @@ Device fits in enclosure of the P1S printer and can be power directly from the i
 
 The VOCaware is also visible in the camera view of the Bambu Studio interface:
 
-![VOCaware P1S GUI](images/VOCaware_P1S_gui.png)
+![VOCaware P1S GUI](images/VOCaware_P1S_gui.PNG)
 
 # What's Next
 Ideas for improvements and features:
@@ -75,4 +75,4 @@ Ideas for improvements and features:
 
 Unfortunatly the ground layer is not sufficiently interconnected. It can be easily fixed by soldering a short wire from the GND test pin to the ground zone as shown in the image:
 
-![VOCaware ground layer](images/VOCaware_pcb_back_bugfix.png)
+![VOCaware ground layer](images/VOCaware_pcb_back_bugfix.PNG)
