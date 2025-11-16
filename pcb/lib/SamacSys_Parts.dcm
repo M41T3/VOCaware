@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ESP32-S3-MINI-1-N8
+D WiFi Development Tools - 802.11 [Engineering Samples] SMD Module, ESP32-S3FN8, 8 MB SPI Flash, PCB Antenna
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+$ENDCMP
+#
+$CMP SGP40-D-R4
+D Air Quality Sensors Gas Sensor 2.5k pcs IC
+K
+F 
+$ENDCMP
+#
+$CMP SHT40-AD1F-R2
+D Board Mount Humidity Sensors Digital Humidity and Temperature Sensor incl Filter Membrane
+K
+F https://sensirion.com/media/documents/33FD6951/63E1087C/Datasheet_SHT4x_1.pdf
+$ENDCMP
+#
+$CMP XL-0807RGBC-WS2812B
+D 20mA Colorless -40~+150 Positive post Multi-Color 120 3.5V~5.5V SMD,1.8x2mm Light Emitting Diodes (LED) ROHS
+K
+F https://datasheet.lcsc.com/lcsc/2207041845_XINGLIGHT-XL-0807RGBC-WS2812B_C3646929.pdf
+$ENDCMP
+#
+$CMP AP2112K-3.3TRG1
+D 600mA 3.3V LDO Regulator Enable SOT23-5 DiodesZetex AP2112K-3.3TRG1, LDO Voltage Regulator, 3.3 V +/-1.5%, 2.5  6 Vin, 5-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/AP2112.pdf
+$ENDCMP
+#
+#End Doc Library
