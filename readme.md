@@ -1,8 +1,8 @@
 # What is VOCaware?
 
-VOCaware is a small device that measures volatile organic components (VOCs) in the ambient air and indicates potentially unhealthy exposure.
+VOCaware is a small device that measures volatile organic components (VOCs) in the ambient air and indicates potential unhealthy exposure.
 
-VOCs are released during 3D printing caused by the melting process of plastic filaments. The exposure depends on the material and the melting temperature. Since there are no long term studies on the implications of VOC exposure to the human being it‘s reasonable to mitigate the risk of potential long term illness by avoiding these gases.
+VOCs are released during 3D printing caused by the melting process of plastic filaments. The exposure depends on the material and the melting temperature. Since there are no long term studies on the implications of VOC exposure to the human being it‘s reasonable to mitigate the risk of  potential health issues by avoiding these gases.
 
 ![VOCaware side view](images/VOCaware_side.jpg)  
 
