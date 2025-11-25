@@ -81,20 +81,20 @@ void loop() {
     // Change color of LED according to VOC index scale 
     if (voc_index == 0){
       if(blink_flag){
-        leds[0] = 0xAA0000; //GRB
+        leds[0] = 0x880000; //GRB
         blink_flag = 0;
       }else{
         leds[0] = 0x000000;
         blink_flag = 1;
       }
     }else if(voc_index < 70){
-        leds[0] = 0x0000AA;
+        leds[0] = 0x000055;
     }else if(voc_index < 140){
-        leds[0] = 0xAA0000;
+        leds[0] = 0x880000;
     }else if(voc_index < 210){
-        leds[0] = 0xAAAA00;
+        leds[0] = 0x888800;
     }else if(voc_index < 280){
-        leds[0] = 0x55AA00;
+        leds[0] = 0x338800;
     }else if(voc_index < 350){
         leds[0] = 0x00AA00;
     }else{
